@@ -1,25 +1,25 @@
 {
   "alfredtheme" : {
     "result" : {
-      "textSpacing" : 8,
+      "textSpacing" : 10,
       "subtext" : {
         "size" : 11,
-        "colorSelected" : "#8090B2FF",
+        "colorSelected" : "#6E7073FF",
         "font" : "System Light",
-        "color" : "#7B7B7BCB"
+        "color" : "#6E7073E5"
       },
       "shortcut" : {
         "size" : 13,
-        "colorSelected" : "#615192FF",
+        "colorSelected" : "#6E7073FF",
         "font" : "System Light",
-        "color" : "#C2B27CFF"
+        "color" : "#6E7073FF"
       },
-      "backgroundSelected" : "#DECFBEFF",
+      "backgroundSelected" : "#00000054",
       "text" : {
         "size" : 22,
-        "colorSelected" : "#615192FF",
+        "colorSelected" : "#E1E1E2FF",
         "font" : "System Light",
-        "color" : "#7B7B7BFF"
+        "color" : "#A8A8ABFF"
       },
       "iconPaddingHorizontal" : 10,
       "paddingVertical" : 8,
@@ -27,35 +27,35 @@
     },
     "search" : {
       "paddingVertical" : 2,
-      "background" : "#E1E2E5FF",
+      "background" : "#FEFFFE00",
       "spacing" : 10,
       "text" : {
         "size" : 36,
         "colorSelected" : "#576266FF",
         "font" : "System Light",
-        "color" : "#413045FF"
+        "color" : "#E1E1E2FF"
       },
-      "backgroundSelected" : "#CED2CCFF"
+      "backgroundSelected" : "#C9C9C91C"
     },
     "window" : {
-      "color" : "#E1E2E5FF",
+      "color" : "#111113CC",
       "paddingHorizontal" : 10,
       "width" : 620,
       "borderPadding" : 10,
       "borderColor" : "#FEFFFF00",
       "blur" : 40,
-      "roundness" : 4,
+      "roundness" : 6,
       "paddingVertical" : 10
     },
-    "credit" : "Samuele Cioni",
+    "credit" : "Sindre Sorhus",
     "separator" : {
       "color" : "#00000005",
       "thickness" : 1
     },
     "scrollbar" : {
-      "color" : "#DECFBEFF",
+      "color" : "#53535761",
       "thickness" : 2
     },
-    "name" : "Simple"
+    "name" : "Simple Dark"
   }
 }
